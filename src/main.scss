@@ -1,0 +1,12 @@
+.app-header__step-nav {
+  display: flex;
+  gap: calc(var(--base) / 2);
+  align-items: center;
+}
+.app-header__content {
+  border-bottom: 1px solid var(--theme-elevation-100);
+}
+
+.dashboard__wrap {
+  padding-top: 24px;
+}
